@@ -4,7 +4,7 @@
   "description": "open DeltaS112 door",
   "main": "linda-door-open-delta.coffee",
   "scripts": {
-    "start": "coffee linda-door-open-delta.coffee"
+    "start": "./node_modules/coffee-script/bin/coffee linda-door-open-delta.coffee"
   },
   "keywords": [
     "linda",
@@ -14,6 +14,8 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "arduino-firmata": "~0.3.0",
-    "linda-socket.io": "~0.2.0"
+    "linda-socket.io": "~0.2.0",
+    "coffee-script": "~1.7.1",
+    "socket.io-client": "~0.9.16"
   }
 }
