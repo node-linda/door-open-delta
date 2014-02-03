@@ -1,0 +1,19 @@
+{
+  "name": "node-linda-door-open-delta",
+  "version": "0.0.1",
+  "description": "open DeltaS112 door",
+  "main": "linda-door-open-delta.coffee",
+  "scripts": {
+    "start": "coffee linda-door-open-delta.coffee"
+  },
+  "keywords": [
+    "linda",
+    "arduino"
+  ],
+  "author": "Sho Hashimoto <hashimoto@shokai.org>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "arduino-firmata": "~0.3.0",
+    "linda-socket.io": "~0.2.0"
+  }
+}
