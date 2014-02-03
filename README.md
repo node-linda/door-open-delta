@@ -45,6 +45,7 @@ servo motor -> digital pin 9
 
     % export LINDA_BASE=http://node-linda-base.herokuapp.com
     % export LINDA_SPACE=test
+    % export ARDUINO=/dev/cu.usbserial-device
     % npm start
 
 
