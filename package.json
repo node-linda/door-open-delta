@@ -14,8 +14,9 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "arduino-firmata": "~0.3.1",
-    "linda-socket.io": "~0.2.0",
     "coffee-script": "~1.7.1",
+    "linda-socket.io": "~0.2.0",
+    "lodash": "^2.4.1",
     "socket.io-client": "~0.9.16"
   }
 }
