@@ -1,8 +1,8 @@
-node-linda-door-open-delta
-==========================
+door-open-delta
+===============
 Open [DeltaS112](http://gyazz.com/masuilab/慶應SFC 増井研究会) door with [linda-socket.io](https://github.com/node-linda/linda-socket.io)
 
-- https://github.com/node-linda/node-linda-door-open-delta
+- https://github.com/node-linda/door-open-delta
 
 
 1. watch {type: "door", cmd: "open"}
