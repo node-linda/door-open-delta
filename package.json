@@ -15,8 +15,8 @@
   "dependencies": {
     "arduino-firmata": "~0.3.1",
     "coffee-script": "~1.7.1",
-    "linda-socket.io": "~0.2.0",
+    "linda": "~>1.0",
     "lodash": "^2.4.1",
-    "socket.io-client": "~0.9.16"
+    "socket.io-client": "~>1.0"
   }
 }
